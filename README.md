@@ -1,4 +1,4 @@
 - 👋 hi guys i am quuenton
-- 👀 im coding on c#, c++ and python
+- 👀 im coding on c# and python
 - 🌱 i want to create my website
 - 📫 quuenton#1234
