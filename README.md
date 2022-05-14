@@ -13,10 +13,8 @@ __(I have used C# in private repos.)__
 __Like code my own Minecraft PVP client, code site, code Discord bot and verify it.__
 
 # - 📫 My contacts:
-__Discord - quuenton#9999__
+__Discord - quuenton#1337__
 
 __Telegram - @onlyquuenton__
 
 __VKontakte - https://vk.com/intentstore__
-
-__TikTok - @its.quuenton__
