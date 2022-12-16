@@ -5,7 +5,7 @@ My stats -
 [![My GitHub (GitLab) stats](https://github-readme-stats.vercel.app/api?username=quuenton)](https://github.com/anuraghazra/github-readme-stats)
 
 # - 📫 My contacts:
-__Discord - quuenton#6540__
+__Discord - quuenton#0096__
 
 __Telegram - disastering__
 
